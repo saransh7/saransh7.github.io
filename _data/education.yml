@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
   name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  dates: 2015 - 2019
+  qualification: Bachelor of Science(B.S.) in Economic Sciences
   quote: >
-    Short institution or course description (optional)
+    Indian Institute of Technology, Kanpur, is one of an Institute of National Importance declared by the Government of India. 
   description: | # this will include new lines to allow paragraphs
     Description of qualification
