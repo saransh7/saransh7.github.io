@@ -3,26 +3,17 @@ repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-phone: 07845248563
-website: sproogen.github.io/modern-resume-theme
+name: Saransh Bhatnagar
+title: Data Analyst
+email: saransh.bhatnagar.7@gmail.com
+phone: +91-7054118778
 
 # Social links
-twitter_username: jekyllrb
 github_username:  jekyll
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
 facebook_username: jekyll
-flickr_username: jekyll
 instagram_username: jekyll
 linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -34,8 +25,8 @@ additional_links:
 #   url: Link url (eg. https://google.com)
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: _test/images/travis.png
+about_title: About Me (Use this to override about section title)
+about_profile_image: saransh_profile.jpg
 about_content: > # this means to ignore newlines until the next config item.
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
