@@ -33,11 +33,11 @@ linkedin_username: saransh-bhatnagar-ab0446166
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me (Use this to override about section title)
+about_title: About Me #(Use this to override about section title)
 about_profile_image: saransh_profile.jpg
-# about_content: | # this will include new lines to allow paragraphs
-#   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
+about_content: >
+  Data Science enthusiast from IIT Kanpur currently working with Schlumberger as a Data Analytics Engineer to provide data-backed business solutions.<br/>
+  Have prior experience in various data science techniques primarily NLP, image processing, time series forecasting and feature engineering.
 #   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 #     - Lists
 #     - Tables
@@ -48,7 +48,7 @@ about_profile_image: saransh_profile.jpg
 # projects_title: Projects #(Use this to override about projects section title)
 
 #Experience Section
-experience_title: Experience #(Use this to override about experience section title)
+#experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
