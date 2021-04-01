@@ -3,21 +3,21 @@ import { render } from '@testing-library/react';
 import './__mocks__/matchMedia';
 import { Content, Footer } from './components/'
 
-test('renders name: Adam Alston', () => {
+test('renders name: Saransh Bhatnagar', () => {
     const { getByText } = render(<Content />);
-    const linkElement = getByText('Adam Alston');
+    const linkElement = getByText('Saransh Bhatnagar');
     expect(linkElement).toBeInTheDocument();
 });
 
-test('renders title: Software Engineer', () => {
+test('renders title: Data Scientist', () => {
     const { getByText } = render(<Content />);
     const linkElement = getByText('Software Engineer');
     expect(linkElement).toBeInTheDocument();
 });
 
-test('renders creator: Adam Alston', () => {
+test('renders creator: Saransh Bhatnagar', () => {
     const { getByText } = render(<Footer />);
-    const linkElement = getByText(/Adam Alston/i);
+    const linkElement = getByText(/Saransh Bhatnagar/i);
     expect(linkElement).toBeInTheDocument();
 });
 
