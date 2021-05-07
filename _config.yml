@@ -52,9 +52,8 @@ instagram_username: dark_voyager7
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/doodle_saransh.jpg
 about_content: | # this will include new lines to allow paragraphs
-  \
   Hi! my name is Saransh and I'm a data scientist.\
-  I graduated from `IITK` and been in corporate world since then.\
+  I graduated from [`IITK`](https://www.iitk.ac.in/) and working in [`Schlumberger`](https://www.slb.com/) to provide data backed business solution.\
   During my journey, I learned first how to learn from [Google](https://google.com) :), and along the way developed a few skills (I learned to be humble as well ;)) such as: data analysis & integration, econometrics, machine learning, deep learning and using cloud platforms to leverage scalability in this dynamic world of data.
   > *I amaze myself some days. But other days, I put my keys in the fridge.*
 
